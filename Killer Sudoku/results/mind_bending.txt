@@ -1,0 +1,12 @@
+------------------ MAC + MRV ---------- 
+ 
+   Time Elapsed       : 35.04500
+   Constrains Checked : 224168968
+   Assignments made : 891
+ 
+------------------ FC + MRV ---------- 
+ 
+   Time Elapsed       : 124.79600
+   Constrains Checked : 4597111621
+   Assignments made : 131101
+ 

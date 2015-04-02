@@ -1,0 +1,6 @@
+------------------ MAC + MRV ---------- 
+ 
+   Time Elapsed       : 142.50800
+   Constrains Checked : 264320690
+   Assignments made : 2967
+ 

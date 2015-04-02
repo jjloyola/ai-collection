@@ -1,0 +1,20 @@
+
+----Heuristic: 4-----
+Explored nodes: 155
+Actions to solution: 12
+Time elapsed: 0.085
+
+----Heuristic: 3-----
+Explored nodes: 166
+Actions to solution: 12
+Time elapsed: 0.09
+
+----Heuristic: 2-----
+Explored nodes: 232
+Actions to solution: 12
+Time elapsed: 0.13
+
+----Heuristic: 1-----
+Explored nodes: 242
+Actions to solution: 12
+Time elapsed: 0.13

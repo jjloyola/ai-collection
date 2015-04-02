@@ -1,0 +1,10 @@
+
+----RUN 2-----
+Explored nodes: 36
+Actions to solution: 0
+Time elapsed: 1.117375
+
+----RUN 3-----
+Explored nodes: 16
+Actions to solution: 0
+Time elapsed: 0.169791666667

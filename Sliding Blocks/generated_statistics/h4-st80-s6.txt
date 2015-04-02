@@ -1,0 +1,5 @@
+
+----RUN 2-----
+Explored nodes: 35
+Actions to solution: 0
+Time elapsed: 2.2054379562
